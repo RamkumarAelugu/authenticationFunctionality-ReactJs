@@ -1,0 +1,8 @@
+/* Write your CSS code here */
+.main-logout-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}

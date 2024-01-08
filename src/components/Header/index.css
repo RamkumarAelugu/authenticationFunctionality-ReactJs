@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.nav-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 30px;
+}
+
+.nav-menu {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
+
+.nav-link {
+  padding: 10px;
+  font-family: 'Roboto';
+}
